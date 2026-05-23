@@ -1,19 +1,19 @@
 {
   "name": "LyynaleyProject",
   "short_name": "LyynaleyP",
-  "start_url": "/LandingPageMykonos/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "description": "Aplikasi resmi untuk melihat koleksi dan pembaruan terkini dari Lyynaley. Dapatkan akses cepat ke informasi.",
+  "description": "Aplikasi resmi untuk melihat koleksi dan pembaruan terkini dari Lyynaley.",
   "lang": "id",
   "dir": "ltr",
   "orientation": "any",
-  "scope": "/",
+  "scope": "./",
   "id": "com.lyynaley.mykonos",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "./logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
