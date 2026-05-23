@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LyynaleyProject",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LyynaleyP",
+  "start_url": "https://lyynaley01.github.io/LandingPageMykonos/",
+  "theme_color": "#ffffff",
+  "id": "com.lyynaley.mykonos",
+  "description": "Aplikasi resmi untuk melihat koleksi dan pembaruan terkini dari Lyynaley. Dapatkan akses cepat ke informasi produk kami kapan saja",
+  "lang": "id"
+}
