@@ -1,7 +1,7 @@
 {
   "name": "LyynaleyProject",
   "short_name": "LyynaleyP",
-  "start_url": "https://lyynaley01.github.io/LandingPageMykonos/manifest.json",
+  "start_url": "/LandingPageMykonos/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
